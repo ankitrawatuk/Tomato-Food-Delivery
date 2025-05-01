@@ -7,7 +7,7 @@ The application is deployed and accessible at https://app-food-tomato.netlify.ap
 
  Sign-in Page: Users can sign in to access additional features <br>
 
-![image] (https://raw.githubusercontent.com/ankitrawatuk/Tomato-Food-Delivery/refs/heads/main/Screenshot%20(1).png)
+![image](https://github.com/ankitrawatuk/Tomato-Food-Delivery/blob/main/Screenshot%20(1).png?raw=true)
 
  Menu Exploration:Users can explore the restaurant's menu items categorized by different food types.<br>
  ![image] https://raw.githubusercontent.com/ankitrawatuk/Tomato-Food-Delivery/refs/heads/main/Screenshot%20(1).png
