@@ -10,7 +10,7 @@ The application is deployed and accessible at https://app-food-tomato.netlify.ap
 ![image] (https://raw.githubusercontent.com/ankitrawatuk/Tomato-Food-Delivery/refs/heads/main/Screenshot%20(1).png)
 
  Menu Exploration:Users can explore the restaurant's menu items categorized by different food types.<br>
- ![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/bf7d10dc-fec3-4090-8329-8dc7b0488fee)
+ ![image] https://raw.githubusercontent.com/ankitrawatuk/Tomato-Food-Delivery/refs/heads/main/Screenshot%20(1).png
 
 Adding to Cart: Users can add items to their cart from the menu.<br>
 ![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/fabe8daa-a88f-4b77-bcce-bd5ed4d6fc37)
