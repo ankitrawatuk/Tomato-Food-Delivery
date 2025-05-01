@@ -7,30 +7,30 @@ The application is deployed and accessible at https://app-food-tomato.netlify.ap
 
  Sign-in Page: Users can sign in to access additional features <br>
 
-![image](https://github.com/ankitrawatuk/Tomato-Food-Delivery/blob/main/Screenshot%20(1).png?raw=true)
+![image](https://github.com/ankitrawatuk/Tomato-Food-Delivery/blob/main/screenshot/Screenshot%20(1).png?raw=true)
 
  Menu Exploration:Users can explore the restaurant's menu items categorized by different food types.<br>
- ![image] https://raw.githubusercontent.com/ankitrawatuk/Tomato-Food-Delivery/refs/heads/main/Screenshot%20(1).png
+ ![image](https://github.com/ankitrawatuk/Tomato-Food-Delivery/blob/main/screenshot/Screenshot%20(3).png?raw=true)
 
 Adding to Cart: Users can add items to their cart from the menu.<br>
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/fabe8daa-a88f-4b77-bcce-bd5ed4d6fc37)
+![image](https://github.com/ankitrawatuk/Tomato-Food-Delivery/blob/main/screenshot/Screenshot%20(4).png?raw=true)
 
 Filtering: Users can filter menu items based on various criteria such as category, or dietary preferences.<br>
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/d3373fe4-0b14-4f89-ade2-cbaec08796b7)
+![image](https://github.com/ankitrawatuk/Tomato-Food-Delivery/blob/main/screenshot/Screenshot%20(3).png?raw=true)
 
 Cart Management: Users can view their cart, remove items, and proceed to checkout.<br>
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/80fba764-bc79-4749-80cb-6dfa675ee8e1)
+![image](https://github.com/ankitrawatuk/Tomato-Food-Delivery/blob/main/screenshot/Screenshot%20(5).png?raw=true)
 
 Order Placement: Users can input delivery information and place orders.<br>
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/de526971-c9c7-4235-93b2-dc2690c25b5d)
+![image](https://github.com/ankitrawatuk/Tomato-Food-Delivery/blob/main/screenshot/Screenshot%20(6).png?raw=true)
 
 Responsive Design: The application is responsive and suitable for various screen sizes.<br>
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/675a6a1c-e7db-4464-82e4-9c6755ddc715)
+![image](https://github.com/ankitrawatuk/Tomato-Food-Delivery/blob/main/screenshot/Screenshot%20(7).png?raw=true)
 
 
 ## Folder Structure
 
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/872837e1-bb58-467b-82f5-73fe788b7e11)
+![image](https://github.com/ankitrawatuk/Tomato-Food-Delivery/blob/main/screenshot/Screenshot%20(8).png?raw=true)
 ## Tech Stack
 The application is built using the following technologies:
 
